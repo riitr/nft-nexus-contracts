@@ -66,7 +66,7 @@ npx hardhat verify --network sepolia DEPLOYED_CONTRACT_ADDRESS "PAYMENT_TOKEN_AD
 ```sh
 npx hardhat console --network sepolia
 ```
-### **2️⃣ Mint an NFT**
+### **2️⃣ Mint an NFT (Under Testing)**
 ```js
 const NFTMarketplace = await ethers.getContractFactory("NFTMarketplace");
 const marketplace = await NFTMarketplace.attach("DEPLOYED_CONTRACT_ADDRESS");
