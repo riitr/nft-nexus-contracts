@@ -10,6 +10,7 @@ Ensure you have the following installed:
 - [Node.js (v18+)](https://nodejs.org/)
 - [Hardhat](https://hardhat.org/)
 - [MetaMask](https://metamask.io/)
+- [Sepolia EtherScan Account](https://sepolia.etherscan.io/)
 
 ### **2️⃣ Clone the Repository**
 ```sh
